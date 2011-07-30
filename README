@@ -1,0 +1,15 @@
+Hack name - Clone Club
+
+Functionality:
+The user will enter his interests (like Movies, books and information about Flickr profile. He has to then submit this information to find his clone. This can be done in 3 modes:
+1. User enters all the criterias to find the clone
+2. User gives weightage to different criterias
+3. User enters a single criteria
+
+Based on the above 3 modes, the application will search for clones. It will then return a clone alongwith match percentage. 
+
+Programming:
+Probably use Yahoo! API's like Yahoo Location, Yahoo Movies and Yahoo local. 
+
+Algorithm/Math functions:
+We need to come up with a math function to take care of the weightage factor. 
